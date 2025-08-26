@@ -20,4 +20,4 @@ Firefox addon page:
 https://addons.mozilla.org/en-GB/firefox/addon/youtube-twitch-chat-swapper/
 
 For Chromium browsers:
-I refuse to pay to upload my extension on the Chrome store, so for now, you will need to manually download and install the extension from this repo.
+I refuse to pay to upload my extension on the Chrome store, so for now, you will need to manually download and install the extension from this repo by using the .crx file or loading the zip as an unpacked extension.
