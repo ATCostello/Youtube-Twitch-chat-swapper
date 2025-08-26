@@ -12,6 +12,8 @@ Supports dark mode!
 
 On initial load of the twitch chat, the channel is automatically guessed from the YouTube channel's name. Sometimes a streamer has a different name on each platform, or the wrong name is grabbed. In this instance, please use the override text box and button to set the correct Twitch username.
 
+![Screenshot showcasing the header UI used to change settings per channel](https://i.imgur.com/KnI7wZv.png)
+
 The twitch chat will use your settings from the official twitch website. So make sure you're signed in to Twitch.
 
 Install and head to a YouTube stream to see the changes.
