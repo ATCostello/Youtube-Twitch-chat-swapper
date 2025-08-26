@@ -1,5 +1,7 @@
 # Youtube-Twitch-chat-swapper
 Swap YouTube chat with Twitch chat and save preferences per channel.
+![Screenshot showcasing the UI of the youtube-twitch chat swapper extension](https://i.imgur.com/ntAdpkX.jpeg)
+
 
 An addon to allow automatic switching between YouTube live chat and Twitch chat specifically meant to enhance the experience when watching streamers that multi-stream!
 
